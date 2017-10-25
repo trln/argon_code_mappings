@@ -1,5 +1,5 @@
 {
-    "library location" : {
+    "loc_b" : {
 	"ALEPH" : "General Patron",
 	"ARCH" : "University Archives",
 	"ARTAH" : "AAHVS (Smith)",
@@ -44,7 +44,7 @@
 	"USR00" : "USR00 Library",
 	"VESIC" : "Perkins/Bostock Library {V}"
     },
-    "shelving location" : {
+    "loc_n" : {
 	"AADR" : "",
 	"ANEW" : "",
 	"BLDR" : "",

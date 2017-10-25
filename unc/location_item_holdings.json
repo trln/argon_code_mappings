@@ -1,5 +1,5 @@
 {
-    "library location" : {
+    "loc_b" : {
 	"aa" : "Art Library",
 	"aaa@" : "Art Library",
 	"aaa9" : "Art Library",
@@ -952,7 +952,7 @@
 	"yhdc" : "Latin American Film Library",
 	"yhz" : "Latin American Film Library"
     },
-    "shelving location" : {
+    "loc_n" : {
 	"aa" : "Art Library",
 	"aaa@" : "Staff Use Only",
 	"aaa9" : "Not Yet Determined",

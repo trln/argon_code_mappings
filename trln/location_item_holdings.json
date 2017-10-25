@@ -1,9 +1,9 @@
 {
-    "library location" : {
+    "loc_b" : {
 	"trln" : "TRLN Shared Print Collection",
 	"tr" : "TRLN Shared Print Collection"
     },
-    "shelving location" : {
+    "loc_n" : {
 	"troup" : "Library Service Center -- Use Request Form"
     }
 }

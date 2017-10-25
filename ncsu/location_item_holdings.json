@@ -1,5 +1,5 @@
 {
-    "library location" : {
+    "loc_b" : {
 	"ONLINE" : "Online",
 	"DHHILL" : "D.H. Hill Library",
 	"BOOKBOT" : "Hunt Library bookBot",
@@ -18,7 +18,7 @@
 	"BBR" : "Books by Request",
 	"tr" : "Triangle Research Libraries Network"
     },
-    "shelving location" : {
+    "loc_n" : {
 	"3FLSWING" : "Swing Space",
 	"ACQ" : "Acquisitions Dept.",
 	"ACQ-TEST" : "Acquisitions Dept. - for testing",

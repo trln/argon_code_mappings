@@ -1,5 +1,5 @@
 {
-    "library location" : {
+    "loc_b" : {
 	"NCCUCMC" : "CMC Library",
 	"NCCULAW" : "Law Library",
 	"LAW" : "Law Library",
@@ -7,7 +7,7 @@
 	"NCCUSLIS" : "School of Library and Information Science Library",
 	"NCCUSHEPARD" : "Shepard Library"
     },
-    "shelving location" : {
+    "loc_n" : {
 	"STACKS" : "Stacks",
 	"CHECKEDOUT" : "Checked out",
 	"HOLDS" : "On hold for another user",
