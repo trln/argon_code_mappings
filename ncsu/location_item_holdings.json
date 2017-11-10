@@ -26,6 +26,7 @@
 	"AUCTIONCAT" : "Auction Catalogs",
 	"BBR" : "Books by Request",
 	"BINDERY" : "Material at the bindery",
+	"BOOKBOT": "bookBot",
 	"CATALOGING" : "In Process",
 	"CHECKEDOUT" : "Checked Out",
 	"CIRCDESK" : "Circulation Desk",
