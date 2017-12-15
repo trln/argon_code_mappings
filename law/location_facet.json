@@ -1,4 +1,12 @@
 {
     "law" : "Law Libraries",
-    "lawuncw" : "UNC Law Library"
+    "lawuncw" : "UNC Law Library",
+    "lawdukw": "Duke Law",
+    "lawdukwchon" : "Christie Collection",
+    "lawdukwcoon" : "Cox Collection",
+    "lawdukwemon" : "Empirical Collection",
+    "lawdukwlats" : "Law Documents",
+    "lawdukwlaon" : "Law Faculty Collection",
+    "lawdukwrece" : "Reference",
+    "lawdukwrees" : "Reserves"
 }
