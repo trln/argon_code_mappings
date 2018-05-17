@@ -5,7 +5,8 @@
 	"LAW" : "Law Library",
 	"NCCUMUSIC" : "Music Library",
 	"NCCUSLIS" : "School of Library and Information Science Library",
-	"NCCUSHEPARD" : "Shepard Library"
+	"NCCUSHEPARD" : "Shepard Library",
+	"SHEPARD" : "Shepard Library"
     },
     "loc_n" : {
 	"STACKS" : "Stacks",
