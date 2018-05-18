@@ -1,11 +1,9 @@
 {
     "loc_b" : {
-	"NCCUCMC" : "CMC Library",
-	"NCCULAW" : "Law Library",
+	"CMC" : "CMC Library",
 	"LAW" : "Law Library",
-	"NCCUMUSIC" : "Music Library",
-	"NCCUSLIS" : "School of Library and Information Science Library",
-	"NCCUSHEPARD" : "Shepard Library",
+	"MUSIC" : "Music Library",
+	"SLIS" : "School of Library and Information Science Library",
 	"SHEPARD" : "Shepard Library"
     },
     "loc_n" : {
