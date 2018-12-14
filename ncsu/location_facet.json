@@ -1,4 +1,14 @@
 {
   "ncsu" : "NCSU",
-  "AACCRR" : "AACC Library"
+  "AACCRR" : "AACC Library",
+  "DESIGN" : "Design",
+  "DHHILL" : "D. H. Hill",
+  "GLBT" : "GLBT Center",
+  "HUNT" : "Hunt",
+  "LRL" : "METRC",
+  "NRL" : "Natural Resources",
+  "SATELLITE" : "Satellite Shelving",
+  "SPECCOLL" : "Special Collections",
+  "VETMED" : "Veterinary Medicine",
+  "WORKCOLL" : "Math Work. Coll."
 }
