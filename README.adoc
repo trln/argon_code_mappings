@@ -1,6 +1,6 @@
 = Argon code mappings
 
-NOTE: If a project member has validated the JSON of files modified in a PR, it is acceptable for that person to merge their own PR.
+NOTE: If a project member has validated the JSON of files modified in a pull request, it is acceptable for that person to merge their own pull request.
 
 There is a folder for each institution. In that folder, you will find:
 
