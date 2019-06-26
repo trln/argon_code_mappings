@@ -1,6 +1,6 @@
 = Argon code mappings
 
-NOTE: If a project member has validated the JSON of any files modified in a PR, it is acceptable for that person to merge their own PR.
+NOTE: If a project member has validated the JSON of files modified in a PR, it is acceptable for that person to merge their own PR.
 
 There is a folder for each institution. In that folder, you will find:
 
@@ -8,9 +8,9 @@ location_facet.json:: Mapping of `location_hierarchy` codes to displayed Library
 location_item_holdings.json:: Mapping of `loc_b` and `loc_n` codes to displayed values
 url_template.json:: Institutional proxy prefix
 
-The hsl and law folders only contain location_facet.json files, mapping `location_hierarchy` codes to the "Health Sciences Libraries" and "Law Libraries" top-level values in the Library Location facet when in TRLN view.
+The *hsl* and *law* folders only contain location_facet.json files, mapping `location_hierarchy` codes to the "Health Sciences Libraries" and "Law Libraries" top-level values in the Library Location facet when in TRLN view.
 
-The trln folder contains a location_item_holdings.json file that maps `loc_b` and `loc_n` codes for TRLN Shared Print materials to displayed values. The facet values are also mapped in location_facet.json, but currently we do not display TRLN as a top level Library Location value.
+The *trln* folder contains a location_item_holdings.json file that maps `loc_b` and `loc_n` codes for TRLN Shared Print materials to displayed values. The facet values are also mapped in location_facet.json, but currently we do not display TRLN as a top level Library Location value.
 
 == .git precommit hook
 Adding the following to a `.git/hooks/precommit` file will prevent you from committing invalid JSON.
