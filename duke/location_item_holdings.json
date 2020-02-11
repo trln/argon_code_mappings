@@ -975,6 +975,8 @@
 	"TL8" : "Loeb Classics",
 	"TLV" : "A-V",
 	"TLV1" : "A-V DVD",
+	"TLV2" : "A-V Video cassette",
+	"TLV3" : "A-V Compact disc",
 	"TLV4" : "A-V Video disc",
 	"TLV5" : "A-V Motion picture",
 	"TLV6" : "A-V Sound cassette",
