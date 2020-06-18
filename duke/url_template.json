@@ -1,3 +1,3 @@
 {
-  "proxyPrefix" : "http://proxy.lib.duke.edu/login?url="
+  "proxyPrefix" : "https://login.proxy.lib.duke.edu/login?url="
 }
