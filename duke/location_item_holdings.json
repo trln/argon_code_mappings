@@ -48,6 +48,7 @@
     },
     "loc_n" : {
 	"AADR" : "",
+	"ADF", : "LSC L American Dance Festival",
 	"ANEW" : "",
 	"BLDR" : "",
 	"BRO" : "",
@@ -150,6 +151,7 @@
 	"INET" : "",
 	"KEEPF" : "FORD Library Service Center",
 	"KEEPL" : "LAW Library Service Center",
+	"KEEPR" : "LSC L Print Retention",
 	"LACTC" : "Law School Academic Technologies",
 	"LALUI" : "Alumni (III)",
 	"LALUM" : "Alumni Authors",
