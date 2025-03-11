@@ -16,6 +16,7 @@
 	"DPRES" : "Duke University Press",
 	"DUK50" : "DUKE Users Library",
 	"DUKIR" : "Duke Internet Resource",
+	"DULLOST" : "Lost Items",
 	"DURR" : "Duke Reading Room",
 	"FHI" : "Franklin Humanities Institute",
 	"FORD" : "Ford Library",
@@ -40,14 +41,16 @@
 	"NASHR" : "Nasher - Museum Staff Only",
 	"PERKN" : "Perkins & Bostock Library",
 	"PERKO" : "Perkins Ordering Unit",
+	"RES_SHARE" : "Resource Sharing",
 	"SCL" : "Rubenstein Library",
 	"SMITH" : "Smith Building",
 	"SNFRD" : "Sanford School of Pub Policy",
 	"TRLN" : "TRLN Single Copy Archive",
 	"USR00" : "USR00 Library",
-	"VESIC" : "Perkins & Bostock Library {V}"
-    },
-    "loc_n" : {
+	"VESIC" : "Perkins & Bostock Library {V}",
+	"WITHDRAWN" : "Withdrawn Items"
+	},
+  "loc_n" : {
 	"AADR" : "",
 	"ADF" : "LSC L American Dance Festival",
 	"ANEW" : "",
@@ -75,6 +78,7 @@
 	"DKV1" : "DVD",
 	"DKX" : "Reserves",
 	"DPRES" : "Reading Room",
+	"DULLOST" : "Cannot Be Requested",
 	"DUKPR" : "",
 	"EBL" : "",
 	"EBLA" : "",
@@ -151,6 +155,7 @@
 	"HSR" : "Sound Recordings (Not Available)",
 	"IGI" : "",
 	"INET" : "",
+	"IN_RS_REQ" : "On Loan to Another Institution",
 	"KEEPF" : "FORD Library Service Center",
 	"KEEPL" : "LAW Library Service Center",
 	"KEEPR" : "LSC L Print Retention",
@@ -315,6 +320,7 @@
 	"NETL" : "",
 	"NETLA" : "",
 	"ORO" : "",
+	"OUT_RS_REQ" : "Resource Sharing Requests",
 	"PA" : "University Archives, On-site",
 	"PAA" : "Art, On-site",
 	"PABCA" : "Oversize Cabinets A",
@@ -979,11 +985,14 @@
 	"TLX3" : "Reserve Textbook",
 	"TLPI" : "Current Periodicals",
 	"TGN" : "Perkins 2nd FL - Lilly Graphic Novels",
+	"TSL" : "",
+	"TSLW" : "",
 	"UNC" : "",
 	"UNCP" : "Periodicals",
 	"UPSOT" : "",
 	"WASM" : "",
 	"WILEA" : "",
-	"WILEY" : ""
-    }
+	"WILEY" : "",
+	"WITHDRAWN" : "Cannot Be Requested"
+  }
 }
